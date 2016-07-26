@@ -11,4 +11,9 @@ Creating a new branch is quick AND simple.
 new commit.
 fast forward.
 next
+<<<<<<< HEAD
+origin/dev.
 me too
+=======
+origin/dev.
+>>>>>>> e9b0048a1bd32258db5ed4263318aa98c2885535
